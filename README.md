@@ -31,7 +31,7 @@ Features ready:
 * Roll the dice
 * Update score
 * Display winner
-* Change active the player
+* Change the active player
 * Hold the dice
 * Set final score
 
@@ -42,7 +42,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-Project based on online course I took with Udemy.
+Project based on online course I took on Udemy.
 
 ## Contact
 Created by Julius Mushi - feel free to contact me!
