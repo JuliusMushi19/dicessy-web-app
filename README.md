@@ -29,6 +29,11 @@ Since it was a simple app, there was not much setup required.
 ## Features
 Features ready:
 * Roll the dice
+* Update score
+* Display winner
+* Change active the player
+* Hold the dice
+* Set final score
 
 To-do list:
 * None
