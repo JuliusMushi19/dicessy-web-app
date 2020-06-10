@@ -1,4 +1,4 @@
-# The Pig Game Web App
+# Dicessy Web App
 > A dice game web app with two players, playing in rounds.
 
 ## Table of contents
