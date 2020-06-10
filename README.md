@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Pig Game App](./PigGame.PNG)
+![Dicessy](./Dicessy.PNG)
 
 ## Technologies
 * Brackets
