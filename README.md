@@ -1,5 +1,5 @@
 # Dicessy Web App
-> A dice game web app with two players, playing in rounds.
+> A dice game web application with two players, playing in rounds.
 
 ## Table of contents
 * [General info](#general-info)
